@@ -21,7 +21,7 @@
 **1️⃣ Clone the project**
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/pineharbor476c/ethereum-trade-kit
 cd <your-repo>
 ```
 
